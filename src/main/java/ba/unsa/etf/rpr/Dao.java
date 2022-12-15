@@ -6,7 +6,7 @@ import java.util.List;
  * Generic interface for all abstract classes
  * @author Taner Bajrovic
  * */
-public interface AbstractDao<T> {
+public interface Dao<T> {
 
     /**
      * Gets entity from the database based
